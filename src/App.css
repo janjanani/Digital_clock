@@ -1,0 +1,29 @@
+*{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+  align-items: center;
+}
+body{
+  background-color: rgb(1, 24, 9);
+  justify-content: center;
+    align-items: center;
+    display: flex;
+  width: 100vw;
+  height: 100vh;
+}
+.box{
+ 
+  background-color: aliceblue;
+  width: 500px;
+  height: 300px;
+  text-align: center;
+  
+}
+h1{
+  font-size: 70px;
+  color: orangered;
+}
+
+p{
+  font-size: 50px;
+}
